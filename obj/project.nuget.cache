@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "3WhBs96XoEE=",
+  "success": true,
+  "projectFilePath": "/home/omar/Work/Cart/Cart.fsproj",
+  "expectedPackageFiles": [
+    "/home/omar/.nuget/packages/fsharp.core/9.0.303/fsharp.core.9.0.303.nupkg.sha512",
+    "/home/omar/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/omar/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/omar/.nuget/packages/microsoft.extensions.objectpool/9.0.0/microsoft.extensions.objectpool.9.0.0.nupkg.sha512",
+    "/home/omar/.nuget/packages/microsoft.io.recyclablememorystream/3.0.1/microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "/home/omar/.nuget/packages/npgsql/8.0.6/npgsql.8.0.6.nupkg.sha512",
+    "/home/omar/.nuget/packages/npgsql.fsharp/8.0.0/npgsql.fsharp.8.0.0.nupkg.sha512",
+    "/home/omar/.nuget/packages/oxpecker/1.4.0/oxpecker.1.4.0.nupkg.sha512",
+    "/home/omar/.nuget/packages/oxpecker.viewengine/1.1.0/oxpecker.viewengine.1.1.0.nupkg.sha512",
+    "/home/omar/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512",
+    "/home/omar/.nuget/packages/typeshape/10.0.0/typeshape.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
